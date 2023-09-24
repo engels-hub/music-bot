@@ -1,0 +1,13 @@
+.vscode
+.idea
+.gitignore
+.node-version
+.prettierrc
+.replit
+CODE_OF_CONDUCT.md
+config.json.example
+CONTRIBUTING.md
+/node_modules
+/.vs
+/dist
+config.json
